@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4147
+
+This keymap file allows you to easily type Old English in Vim using your regular Latin keyboard, with no cumbersome, finger-twisting combinations or the use of the compose key. It is straightforward and can be modified for your needs.
+
+The combinations used for scribal abbreviations were chosen with QWERTY keyboards in mind. Change them if you use other keyboard layout.
+
+This keymap file was originally created to ease the task of typing in massive amounts of Old English text for the Wikisource electronic edition of Ælfric's Lives of Saints (http://en.wikisource.org/wiki/Ælfric's_Lives_of_Saints).
+
+
+
+In case you want to read more about Old English, here are the first paragraphs of two articles from Wikipedia:
+
+Old English (Ænglisc, Anglisc, Englisc) or Anglo-Saxon is an early form of the English language that was spoken and written by the Anglo-Saxons and their descendants in parts of what are now England and southern and eastern Scotland, more specifically in the England Old Period, between at least the mid-5th century and the mid-12th century. What survives through writing represents primarily the literary register of Anglo-Saxon.
+(from http://en.wikipedia.org/wiki/Old_English)
+
+The Old English Latin alphabet  although it did not have a standard orthography  generally consisted of 24 letters, and was in use for writing Old English from the 9th to the 12th centuries. Of these, 20 were directly adopted letters of the Latin alphabet, two were modifications of Latin letters (Æ, Ð), and two were developments from the runic alphabet (Ƿ, Þ). The letters K, Q and Z were not in the spelling of native English words.
+(from http://en.wikipedia.org/wiki/Old_English_Latin_alphabet)
+
